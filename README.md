@@ -1,5 +1,7 @@
 # Survival-Analysis-Project
 
+![image](https://user-images.githubusercontent.com/59629686/208314911-92625632-68e1-4522-b191-37ec68c24929.png)
+
 ## I. Introduction
 
 For burn patients, infection control remains an essential component of their treatment as the burn wound can be highly susceptible to colonization by
@@ -45,9 +47,27 @@ of burned area is not a significant factor in the hazard model.
 
 + Patients with different gender do not diff significantly in infection survival.
 
-+ Patients who are non-white have significantly different survival function from white patients; non-white patients tend to have higher survival rate overall,
-based on our data. Some further clinical investigation may be needed to confirm if non-white patients are less likely to be infected than white patients.
++ Patients who are non-white have significantly different survival function from white patients; non-white patients tend to have higher survival rate overall, based on our data. Some further clinical investigation may be needed to confirm if non-white patients are less likely to be infected than white
+patients.
 
++ For the four burn types: Patients with chemical and scald burns have very high risk of infection during the first week; patients with electric and flame burns have the lowest survival rate (at around 50%) by the end of study; patients with flame burns have disproportionate hazard than the others; patients with electric burns have significantly higher hazards than the other groups (200% more likely to be infected on average).
+
++ The survival functions for antibiotics are significantly different between patients who received cleansing treatment and patients who received routine care. Patients who received cleansing treatment tend to have higher chance of getting antibiotic treatment. This suggests that treatment assignment may not be random.
+
++ The survival functions for surgical excision are significantly different between patients who received cleansing treatment and patients who received routine care. Patients who received cleansing treatment tend to have higher chance of surgical excision. This also suggests that treatment assignment may not be random.
+
++ Burn sites as a whole is not an important factor in explaining changes in hazard rate; however, based on the first model with time-independent variables, patients who had buttock burn wounds tend to have lower survival probability than those who had not at significance level 0.1. (35% less likely to be infected on average)
+
+### Several potential sources of bias:
+
+
+1. Sample sizes for burn types that are not ‘flame’ (especially ‘chemical’) are small.
+
+2. Sample size for non-white patients are relatively small.
+
+3. Treatment assignment may not be random at all: patients with worse burn wounds, who had higher chance of receiving antibiotic treatment and/or surgical excision, may had been be more likely to receive detergent cleansing during assignment.
+
+4. The quadratic relationship between percent of burned area and infection time is dubious.
 
 
 
