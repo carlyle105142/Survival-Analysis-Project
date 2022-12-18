@@ -1,7 +1,7 @@
 # Survival-Analysis-Project
 
 </div align=center>
-<img src = "https://user-images.githubusercontent.com/59629686/208314937-2888cc7a-dd0c-46ee-9f7d-ae682cb6829c.png" width=2000>
+<img src = "https://user-images.githubusercontent.com/59629686/208315152-63eea8ce-65b8-4256-b243-6d5e15a02230.png" width=2000>
 </div>
 
 ## I. Introduction
