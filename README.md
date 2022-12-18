@@ -1,4 +1,4 @@
-# Survival-Analysis-Project
+# Survival Analysis: Burn Treatment
 
 </div align=center>
 <img src = "https://user-images.githubusercontent.com/59629686/208315152-63eea8ce-65b8-4256-b243-6d5e15a02230.png" width=2000>
