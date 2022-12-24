@@ -6,7 +6,7 @@
 <img src = "https://user-images.githubusercontent.com/59629686/208315152-63eea8ce-65b8-4256-b243-6d5e15a02230.png" width=2000>
 </div>
 
-*Part of the report is posted down below. For more details/plots please look at the .html file; for R code please refer to the .rmd file*
+*Part of the report is posted down below. For more details/plots please check out the Report.docx file; for R code please refer to the .rmd file*
 ## I. Introduction
 
 For burn patients, infection control remains an essential component of their treatment as the burn wound can be highly susceptible to colonization by
